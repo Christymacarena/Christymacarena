@@ -1,3 +1,4 @@
+<iframe src="https://giphy.com/embed/AJ85Ie15uFoYU5B0vN" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/doodles-mello-thedoodles-hap-and-AJ85Ie15uFoYU5B0vN">via GIPHY</a></p>
 <h1 align="center">¡Hola!, I'm <a href="https://www.linkedin.com/in/christy-matryonina/" target="_blank">Christy</a> 
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0e35f546-870f-4922-a794-c9f327c2e57b/d8qf5xd-4736d740-a6a8-4c4b-91b4-159ce8904a50.gif" height="32"/></h1>
 <h3 align="center">Data Analyst and Data Science self-learner, dwelling in Buenos-Aires <a href="https://ogeo.info/flags/flag-argentiny" target="_blank"><img alt="Флаг Аргентины"
