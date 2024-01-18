@@ -3,7 +3,7 @@
 <h3 align="center">Data Analyst and Data Science self-learner, dwelling in Buenos-Aires <a href="https://ogeo.info/flags/flag-argentiny" target="_blank"><img alt="Флаг Аргентины"
 src="https://ogeo.info/wp-content/uploads/2023/02/flag-argentiny-foto.png" width="30" height="20" /></a> </h3>
 <br/>
-<br/>[![codewars](https://www.codewars.com/users/Christymacarena/badges/small)](https://www.codewars.com/users/Christymacarena) </br>
+[![codewars](https://www.codewars.com/users/Christymacarena/badges/micro)](https://www.codewars.com/users/Christymacarena)
 
 <br/>• 🌱 I worked as Project Manager in E-COM startap</br>
 <br/>• 🐾 I am Data Analyst freelancer (dashboards building, UI/UX tests, researches), SEO optimizator</br>
