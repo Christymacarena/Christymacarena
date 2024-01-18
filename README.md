@@ -2,11 +2,15 @@
 <img src="https://github.com/Christymacarena/Christymacarena/blob/main/cat.gif" height="42"/></h1>
 <h3 align="center">Data Analyst and Data Science self-learner, dwelling in Buenos-Aires <a href="https://ogeo.info/flags/flag-argentiny" target="_blank"><img alt="Флаг Аргентины"
 src="https://ogeo.info/wp-content/uploads/2023/02/flag-argentiny-foto.png" width="30" height="20" /></a> </h3>
-<h3 align="center"><a href="https://www.linkedin.com/in/christy-matryonina/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><a href="https://t.me/christymacarena" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+<h3 align="center">
+  <a href="https://www.linkedin.com/in/christy-matryonina/" target="_blank">
+    <img src="https://github.com/Christymacarena/Christymacarena/blob/main/linkedin.svg" width="40" height="40" alt="LinkedIn">
+</a>
+  <a href="https://t.me/christymacarena" target="_blank">
+    <img src="https://github.com/Christymacarena/Christymacarena/blob/main/telegram.svg" width="40" height="40" alt="Telegram">
 </a>
 <a href="mailto:christymacarena.024@gmail.com" target="_blank">
-  <img src="https://github.com/Christymacarena/Christymacarena/blob/main/gmail.svg" width="30" height="20" alt="Gmail">
+  <img src="https://github.com/Christymacarena/Christymacarena/blob/main/maildotru.svg" width="40" height="40" alt="Gmail">
 </a>
 
 </h3>
