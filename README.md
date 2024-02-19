@@ -30,9 +30,8 @@ src="https://ogeo.info/wp-content/uploads/2023/02/flag-argentiny-foto.png" width
 <br/></br>
 <div align="center">
   <h1>Projects I made with love and 
-  <img src="https://media.giphy.com/media/TNtzTc4qZFZVe/giphy.gif" width="52" height="42"></h1>
+  <img src="https://github.com/Christymacarena/Christymacarena/blob/main/colors-rainbow.gif" width="42" height="42"></h1>
 </div>
-
 
 🏠Are you caught between setting a price that's too cheap or one that's too expensive? Step into the future of property pricing with our cutting-edge real estate prophet. Powered by two distinct classification models, it provides accurate insights into property values like never before.
 
