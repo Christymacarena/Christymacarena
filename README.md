@@ -27,8 +27,12 @@ src="https://ogeo.info/wp-content/uploads/2023/02/flag-argentiny-foto.png" width
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-<br/></br>
+<br/>
 <div align="center">
+Explore a world of innovation and creativity with projects born from the depths of dedication and fueled by moments of pure joy. From code to creation, each endeavor is a testament to the art of programming and the pursuit of excellence.
+
+Embark on a journey of discovery and inspiration as you delve into projects designed to captivate your imagination and ignite your curiosity.
+
   <h1>Projects I made with love and 
   <img src="https://github.com/Christymacarena/Christymacarena/blob/main/colors-rainbow.gif" width="42" height="42"></h1>
 </div>
@@ -39,7 +43,14 @@ Unlock the secrets of optimal pricing and embark on your journey to smarter real
 
 [See the future of real estate rental prices here](https://github.com/Christymacarena/rentalpriceprophet)
 
+🚀Ready to expand your restaurant chain to new horizons? With our easy and scalable script research, you'll uncover the perfect locations to launch your next dining venture across the United States.
 
+[Researching New Markets: A Guide to Opening Restaurants in the US](https://github.com/Christymacarena/fastfoodrestaurants)
 
+🏠Discover how to effectively analyze statistical distributions and create accurate forecasts for real estate prices with our comprehensive script. This script provides step-by-step guidance on determining the optimal sample size for statistical analysis and leveraging cutting-edge forecasting techniques to predict real estate prices over the next 365 days.
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[Real Estate Price Forecasting with Statistical Analysis](https://github.com/Christymacarena/Forecast365days)
+
+⚽Looking to predict match results to make informed betting odds? Wondering which team will emerge victorious? Look no further! Our platform offers only the highest quality win, draw, and lose forecast models.
+
+[Football match predicter](https://github.com/Christymacarena/footballforecast)
