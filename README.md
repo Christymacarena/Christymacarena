@@ -29,20 +29,29 @@ src="https://ogeo.info/wp-content/uploads/2023/02/flag-argentiny-foto.png" width
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 <br/></br>
 <div align="center">
-  
-<span style="animation: blink 1s infinite;">Projects I made with love and sometimes pleasure :)</span>
+
+# <span id="blink-text">Projects I made with love and sometimes pleasure :)</span>
 
 </div>
+
 <style>
 @keyframes blink {
     0% { opacity: 1; }
     50% { opacity: 0; }
     100% { opacity: 1; }
 }
-</style>
 
-[You are going to rent your property? but what ptice to set?! 
-Is it cheep, is it too expensive? Here is prophet for real estate prices based on 2 different classification models](https://Christymacarena/rentalpriceprophet/tree/main)
+#blink-text {
+    animation: blink 1s infinite;
+}
+</style>
+# 🏠 **Ready to Rent Your Property? But What Price to Set?!**
+
+Are you caught between setting a price that's too cheap or one that's too expensive? Step into the future of property pricing with our cutting-edge real estate prophet. Powered by two distinct classification models, it provides accurate insights into property values like never before.
+
+Unlock the secrets of optimal pricing and embark on your journey to smarter real estate decisions today!
+
+[See the future of real estate rental prices here](https://Christymacarena/rentalpriceprophet/tree/main)
 
 
 
