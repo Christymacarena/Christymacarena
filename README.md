@@ -28,19 +28,10 @@ src="https://ogeo.info/wp-content/uploads/2023/02/flag-argentiny-foto.png" width
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 <br/></br>
-<span style="animation: rainbow 5s infinite;">Projects I made with love and sometimes pleasure :)</span>
-
-<style>
-    @keyframes rainbow {
-        0% { color: #ff0000; }
-        20% { color: #ff8000; }
-        40% { color: #ffff00; }
-        60% { color: #00ff00; }
-        80% { color: #0000ff; }
-        100% { color: #8000ff; }
-    }
-</style>
-
+<div align="center">
+  <h1>Projects I made with ❤️</h1>
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="Project GIF" width="200" height="200">
+</div>
 <br/>  🏠 Ready to Rent Your Property? But What Price to Set?!
 
 Are you caught between setting a price that's too cheap or one that's too expensive? Step into the future of property pricing with our cutting-edge real estate prophet. Powered by two distinct classification models, it provides accurate insights into property values like never before.
