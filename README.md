@@ -30,7 +30,7 @@ src="https://ogeo.info/wp-content/uploads/2023/02/flag-argentiny-foto.png" width
 <br/></br>
 <div align="center">
   
-# <span style="animation: blink 1s infinite;">Projects I made with love and sometimes pleasure :)</span>
+<span style="animation: blink 1s infinite;">Projects I made with love and sometimes pleasure :)</span>
 
 </div>
 <style>
