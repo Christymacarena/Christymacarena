@@ -53,4 +53,4 @@ Unlock the secrets of optimal pricing and embark on your journey to smarter real
 
 ⚽Looking to predict match results to make informed betting odds? Wondering which team will emerge victorious? Look no further! Our platform offers only the highest quality win, draw, and lose forecast models.
 
-[Football match predicter](https://github.com/Christymacarena/footballforecast)
+[Football match predictor](https://github.com/Christymacarena/footballforecast)
