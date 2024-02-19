@@ -29,15 +29,16 @@ src="https://ogeo.info/wp-content/uploads/2023/02/flag-argentiny-foto.png" width
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 <br/></br>
 <div align="center">
-  <h1>Projects I made with ❤️ and 
-  <img src="https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif" alt="Cat GIF" width="52" height="42"></h1>
+  <h1>Projects I made with love and 
+  <img src="https://media.giphy.com/media/TNtzTc4qZFZVe/giphy.gif" width="52" height="42"></h1>
 </div>
 
 
 🏠Are you caught between setting a price that's too cheap or one that's too expensive? Step into the future of property pricing with our cutting-edge real estate prophet. Powered by two distinct classification models, it provides accurate insights into property values like never before.
 
 Unlock the secrets of optimal pricing and embark on your journey to smarter real estate decisions today!
-[🏠See the future of real estate rental prices here](https://Christymacarena/rentalpriceprophet/tree/main)
+
+[See the future of real estate rental prices here](https://Christymacarena/rentalpriceprophet/tree/main)
 
 
 
