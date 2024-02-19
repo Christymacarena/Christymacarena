@@ -28,10 +28,21 @@ src="https://ogeo.info/wp-content/uploads/2023/02/flag-argentiny-foto.png" width
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 <br/></br>
+<div align="center">
+  
+# <span style="animation: blink 1s infinite;">Projects I made with love and sometimes pleasure :)</span>
 
-Projects i made with love and sometimes pleasure :)
+</div>
+<style>
+@keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 1; }
+}
+</style>
+
 [You are going to rent your property? but what ptice to set?! 
-Is it cheep, is it too expensive? Here is prophet for real estate prices based on 2 different classification models]([https://github.com/your-username/your-project](https://github.com/Christymacarena/rentalpriceprophet/tree/main))
+Is it cheep, is it too expensive? Here is prophet for real estate prices based on 2 different classification models](https://Christymacarena/rentalpriceprophet/tree/main)
 
 
 
