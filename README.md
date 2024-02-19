@@ -30,10 +30,12 @@ src="https://ogeo.info/wp-content/uploads/2023/02/flag-argentiny-foto.png" width
 <br/></br>
 <div align="center">
   <h1>Projects I made with ❤️ and 
-  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="Project GIF" width="42" height="42"></h1>
+  <img src="https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif" alt="Cat GIF" width="52" height="42"></h1>
 </div>
 
-Are you caught between setting a price that's too cheap or one that's too expensive? Step into the future of property pricing with our cutting-edge real estate prophet. Powered by two distinct classification models, it provides accurate insights into property values like never before.
+
+🏠Are you caught between setting a price that's too cheap or one that's too expensive? Step into the future of property pricing with our cutting-edge real estate prophet. Powered by two distinct classification models, it provides accurate insights into property values like never before.
+
 Unlock the secrets of optimal pricing and embark on your journey to smarter real estate decisions today!
 [🏠See the future of real estate rental prices here](https://Christymacarena/rentalpriceprophet/tree/main)
 
