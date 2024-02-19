@@ -29,4 +29,11 @@ src="https://ogeo.info/wp-content/uploads/2023/02/flag-argentiny-foto.png" width
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 <br/></br>
 
+Projects i made with love and sometimes pleasure :)
+[You are going to rent your property? but what ptice to set?! 
+Is it cheep, is it too expensive? Here is prophet for real estate prices based on 2 different classification models]([https://github.com/your-username/your-project](https://github.com/Christymacarena/rentalpriceprophet/tree/main))
+
+
+
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
