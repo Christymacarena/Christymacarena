@@ -37,6 +37,12 @@ Embark on a journey of discovery and inspiration as you delve into projects desi
   <img src="https://github.com/Christymacarena/Christymacarena/blob/main/colors-rainbow.gif" width="42" height="42"></h1>
 </div>
 
+📊Dive into the world of data-driven insights with our Redash Portfolio Project! Explore trends, visualize metrics, and uncover hidden patterns that drive business growth and profitability.
+
+Uncover the power of data visualization and analytics today! 
+
+[Explore the Redash Portfolio Project](https://github.com/Christymacarena/redash)
+
 🏠Are you caught between setting a price that's too cheap or one that's too expensive? Step into the future of property pricing with our cutting-edge real estate prophet. Powered by two distinct classification models, it provides accurate insights into property values like never before.
 
 Unlock the secrets of optimal pricing and embark on your journey to smarter real estate decisions today!
