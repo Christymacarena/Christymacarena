@@ -38,10 +38,9 @@ Embark on a journey of discovery and inspiration as you delve into projects desi
 </div>
 
 📊Dive into the world of data-driven insights with our Redash Portfolio Project! Explore trends, visualize metrics, and uncover hidden patterns that drive business growth and profitability.
+Understand your business from 0 to Hero:) Uncover the power of data visualization and analytics today! 
 
-Uncover the power of data visualization and analytics today! 
-
-[Explore the Redash Portfolio Project](https://github.com/Christymacarena/redash)
+[Explore the Redash Dashboard Project](https://github.com/Christymacarena/redash)
 
 🏠Are you caught between setting a price that's too cheap or one that's too expensive? Step into the future of property pricing with our cutting-edge real estate prophet. Powered by two distinct classification models, it provides accurate insights into property values like never before.
 
