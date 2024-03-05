@@ -38,6 +38,7 @@ Embark on a journey of discovery and inspiration as you delve into projects desi
 </div>
 
 📊Dive into the world of data-driven insights with our Redash Portfolio Project! Explore trends, visualize metrics, and uncover hidden patterns that drive business growth and profitability.
+
 Understand your business from 0 to Hero:) Uncover the power of data visualization and analytics today! 
 
 [Explore the Redash Dashboard Project](https://github.com/Christymacarena/redash)
