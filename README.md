@@ -32,6 +32,10 @@ src="https://ogeo.info/wp-content/uploads/2023/02/flag-argentiny-foto.png" width
   <img src="https://github.com/Christymacarena/Christymacarena/blob/main/colors-rainbow.gif" width="42" height="42"></h1>
 </div>
 
+🏆Dive deep, score big! Tableau Dashboard Project will unveil captivating insights, visualize game-changing metrics, and discover the untold stories behind Argentina's top athletes.
+Spoiler: not only football, not only men, and not only in Buenos Aires.
+[Wanna hire me? Check this Tableau Dashboard](https://github.com/Christymacarena/tableau)
+
 📊Dive into the world of data-driven insights with our Redash Portfolio Project! Explore trends, visualize metrics, and uncover hidden patterns that drive business growth and profitability.
 
 Understand your business from 0 to Hero:) Uncover the power of data visualization and analytics today! 
