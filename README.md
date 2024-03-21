@@ -29,75 +29,48 @@ src="https://ogeo.info/wp-content/uploads/2023/02/flag-argentiny-foto.png" width
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 <br/>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Colorful Phrase</title>
-<style>
-  .word1 { color: blue; }
-  .word2 { color: red; }
-  .word3 { color: green; }
-  .word4 { color: orange; }
-  .word5 { color: purple; }
-  .word6 { color: brown; }
-  .word7 { color: teal; }
-  .word8 { color: pink; }
-  .word9 { color: maroon; }
-  .word10 { color: navy; }
-  .word11 { color: olive; }
-  .word12 { color: indigo; }
-  .word13 { color: magenta; }
-  .word14 { color: cyan; }
-</style>
-</head>
-<body>
-<p>
-  <span class="word1">Explore</span> 
-  <span class="word2">a</span> 
-  <span class="word3">world</span> 
-  <span class="word4">of</span> 
-  <span class="word5">innovation</span> 
-  <span class="word6">and</span> 
-  <span class="word7">creativity</span> 
-  <span class="word8">with</span> 
-  <span class="word9">projects</span> 
-  <span class="word10">born</span> 
-  <span class="word11">from</span> 
-  <span class="word12">the</span> 
-  <span class="word13">depths</span> 
-  <span class="word14">of</span> 
-  <span class="word1">dedication</span> 
-  <span class="word2">and</span> 
-  <span class="word3">fueled</span> 
-  <span class="word4">by</span> 
-  <span class="word5">moments</span> 
-  <span class="word6">of</span> 
-  <span class="word7">pure</span> 
-  <span class="word8">joy</span>. 
-  <span class="word9">From</span> 
-  <span class="word10">code</span> 
-  <span class="word11">to</span> 
-  <span class="word12">creation</span>, 
-  <span class="word13">each</span> 
-  <span class="word14">endeavor</span> 
-  <span class="word1">is</span> 
-  <span class="word2">a</span> 
-  <span class="word3">testament</span> 
-  <span class="word4">to</span> 
-  <span class="word5">the</span> 
-  <span class="word6">art</span> 
-  <span class="word7">of</span> 
-  <span class="word8">programming</span> 
-  <span class="word9">and</span> 
-  <span class="word10">the</span> 
-  <span class="word11">pursuit</span> 
-  <span class="word12">of</span> 
-  <span class="word13">excellence</span>.
-</p>
-</body>
-</html>
+*Explore* 
+<a style="color: blue;">a</a> 
+<a style="color: red;">world</a> 
+<a style="color: green;">of</a> 
+<a style="color: orange;">innovation</a> 
+<a style="color: purple;">and</a> 
+<a style="color: brown;">creativity</a> 
+<a style="color: teal;">with</a> 
+<a style="color: pink;">projects</a> 
+<a style="color: maroon;">born</a> 
+<a style="color: navy;">from</a> 
+<a style="color: olive;">the</a> 
+<a style="color: indigo;">depths</a> 
+<a style="color: magenta;">of</a> 
+<a style="color: cyan;">dedication</a> 
+<a style="color: blue;">and</a> 
+<a style="color: red;">fueled</a> 
+<a style="color: green;">by</a> 
+<a style="color: orange;">moments</a> 
+<a style="color: purple;">of</a> 
+<a style="color: brown;">pure</a> 
+<a style="color: teal;">joy</a>. 
+<a style="color: pink;">From</a> 
+<a style="color: maroon;">code</a> 
+<a style="color: navy;">to</a> 
+<a style="color: olive;">creation</a>, 
+<a style="color: indigo;">each</a> 
+<a style="color: magenta;">endeavor</a> 
+<a style="color: cyan;">is</a> 
+<a style="color: blue;">a</a> 
+<a style="color: red;">testament</a> 
+<a style="color: green;">to</a> 
+<a style="color: orange;">the</a> 
+<a style="color: purple;">art</a> 
+<a style="color: brown;">of</a> 
+<a style="color: teal;">programming</a> 
+<a style="color: pink;">and</a> 
+<a style="color: maroon;">the</a> 
+<a style="color: navy;">pursuit</a> 
+<a style="color: olive;">of</a> 
+<a style="color: indigo;">excellence</a>.
+
 
 <div align="center">
 Embark on a journey of discovery and inspiration as you delve into projects designed to captivate your imagination and ignite your curiosity.
