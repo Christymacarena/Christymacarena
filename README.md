@@ -75,11 +75,11 @@ src="https://ogeo.info/wp-content/uploads/2023/02/flag-argentiny-foto.png" width
   <span class="word5">moments</span> 
   <span class="word6">of</span> 
   <span class="word7">pure</span> 
-  <span class="word8">joy.</span> 
+  <span class="word8">joy</span>. 
   <span class="word9">From</span> 
   <span class="word10">code</span> 
   <span class="word11">to</span> 
-  <span class="word12">creation,</span> 
+  <span class="word12">creation</span>, 
   <span class="word13">each</span> 
   <span class="word14">endeavor</span> 
   <span class="word1">is</span> 
@@ -94,12 +94,10 @@ src="https://ogeo.info/wp-content/uploads/2023/02/flag-argentiny-foto.png" width
   <span class="word10">the</span> 
   <span class="word11">pursuit</span> 
   <span class="word12">of</span> 
-  <span class="word13">excellence.</span>
+  <span class="word13">excellence</span>.
 </p>
 </body>
 </html>
-
-
 
 <div align="center">
 Embark on a journey of discovery and inspiration as you delve into projects designed to captivate your imagination and ignite your curiosity.
