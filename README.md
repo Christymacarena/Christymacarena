@@ -28,54 +28,6 @@ src="https://ogeo.info/wp-content/uploads/2023/02/flag-argentiny-foto.png" width
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 <br/>
-
-*Explore* 
-<font color="blue">a</font> 
-<font color="red">world</font> 
-<font color="green">of</font> 
-<font color="orange">innovation</font> 
-<font color="purple">and</font> 
-<font color="brown">creativity</font> 
-<font color="teal">with</font> 
-<font color="pink">projects</font> 
-<font color="maroon">born</font> 
-<font color="navy">from</font> 
-<font color="olive">the</font> 
-<font color="indigo">depths</font> 
-<font color="magenta">of</font> 
-<font color="cyan">dedication</font> 
-<font color="blue">and</font> 
-<font color="red">fueled</font> 
-<font color="green">by</font> 
-<font color="orange">moments</font> 
-<font color="purple">of</font> 
-<font color="brown">pure</font> 
-<font color="teal">joy</font>. 
-<font color="pink">From</font> 
-<font color="maroon">code</font> 
-<font color="navy">to</font> 
-<font color="olive">creation</font>, 
-<font color="indigo">each</font> 
-<font color="magenta">endeavor</font> 
-<font color="cyan">is</font> 
-<font color="blue">a</font> 
-<font color="red">testament</font> 
-<font color="green">to</font> 
-<font color="orange">the</font> 
-<font color="purple">art</font> 
-<font color="brown">of</font> 
-<font color="teal">programming</font> 
-<font color="pink">and</font> 
-<font color="maroon">the</font> 
-<font color="navy">pursuit</font> 
-<font color="olive">of</font> 
-<font color="indigo">excellence</font>.
-
-
-
-<div align="center">
-Embark on a journey of discovery and inspiration as you delve into projects designed to captivate your imagination and ignite your curiosity.
-
   <h1>Projects I made with love and 
   <img src="https://github.com/Christymacarena/Christymacarena/blob/main/colors-rainbow.gif" width="42" height="42"></h1>
 </div>
