@@ -28,8 +28,8 @@ src="https://ogeo.info/wp-content/uploads/2023/02/flag-argentiny-foto.png" width
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 <br/>
-  <h1>Projects I made with love and 
-  <img src="https://github.com/Christymacarena/Christymacarena/blob/main/colors-rainbow.gif" width="42" height="42"></h1>
+  <center><h1>Projects I made with love and 
+  <img src="https://github.com/Christymacarena/Christymacarena/blob/main/colors-rainbow.gif" width="42" height="42"></h1></center>
 </div>
 
 🏆Dive deep, score big! Tableau Dashboard Project will unveil captivating insights, visualize game-changing metrics, and discover the untold stories behind Argentina's top athletes.
