@@ -15,7 +15,7 @@ src="https://ogeo.info/wp-content/uploads/2023/02/flag-argentiny-foto.png" width
 
 </h3>
 <br/>•  Before I worked as Buyer, Logistic specialist, Project Manager, Senior Product Manager in E-COM start-up
-<br/>•  Now i am Data Analyst freelancer (dashboards building, UI/UX tests, researches) and SEO optimizator
+<br/>•  Now i am Data Analyst freelancer (ETL pipelines, dashboards building, UI/UX tests and SEO optimization) 
 <br/>•  When no work - i am traveling, do snowboarding or learning Data-Science scripts(<strong>python, web, JSON)</br>
 
 <h3 align="left">Tech stack:</h3>
@@ -28,9 +28,80 @@ src="https://ogeo.info/wp-content/uploads/2023/02/flag-argentiny-foto.png" width
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 <br/>
-<div align="center">
-Explore a world of innovation and creativity with projects born from the depths of dedication and fueled by moments of pure joy. From code to creation, each endeavor is a testament to the art of programming and the pursuit of excellence.
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Colorful Phrase</title>
+<style>
+  .word1 { color: blue; }
+  .word2 { color: red; }
+  .word3 { color: green; }
+  .word4 { color: orange; }
+  .word5 { color: purple; }
+  .word6 { color: brown; }
+  .word7 { color: teal; }
+  .word8 { color: pink; }
+  .word9 { color: maroon; }
+  .word10 { color: navy; }
+  .word11 { color: olive; }
+  .word12 { color: indigo; }
+  .word13 { color: magenta; }
+  .word14 { color: cyan; }
+</style>
+</head>
+<body>
+<p>
+  <span class="word1">Explore</span> 
+  <span class="word2">a</span> 
+  <span class="word3">world</span> 
+  <span class="word4">of</span> 
+  <span class="word5">innovation</span> 
+  <span class="word6">and</span> 
+  <span class="word7">creativity</span> 
+  <span class="word8">with</span> 
+  <span class="word9">projects</span> 
+  <span class="word10">born</span> 
+  <span class="word11">from</span> 
+  <span class="word12">the</span> 
+  <span class="word13">depths</span> 
+  <span class="word14">of</span> 
+  <span class="word1">dedication</span> 
+  <span class="word2">and</span> 
+  <span class="word3">fueled</span> 
+  <span class="word4">by</span> 
+  <span class="word5">moments</span> 
+  <span class="word6">of</span> 
+  <span class="word7">pure</span> 
+  <span class="word8">joy.</span> 
+  <span class="word9">From</span> 
+  <span class="word10">code</span> 
+  <span class="word11">to</span> 
+  <span class="word12">creation,</span> 
+  <span class="word13">each</span> 
+  <span class="word14">endeavor</span> 
+  <span class="word1">is</span> 
+  <span class="word2">a</span> 
+  <span class="word3">testament</span> 
+  <span class="word4">to</span> 
+  <span class="word5">the</span> 
+  <span class="word6">art</span> 
+  <span class="word7">of</span> 
+  <span class="word8">programming</span> 
+  <span class="word9">and</span> 
+  <span class="word10">the</span> 
+  <span class="word11">pursuit</span> 
+  <span class="word12">of</span> 
+  <span class="word13">excellence.</span>
+</p>
+</body>
+</html>
+
+
+
+<div align="center">
 Embark on a journey of discovery and inspiration as you delve into projects designed to captivate your imagination and ignite your curiosity.
 
   <h1>Projects I made with love and 
