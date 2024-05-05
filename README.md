@@ -15,8 +15,8 @@ src="https://ogeo.info/wp-content/uploads/2023/02/flag-argentiny-foto.png" width
 
 </h3>
 <br/>•  Before I worked as Buyer, Logistic specialist, Project Manager, Senior Product Manager in E-COMM start-up
-<br/>•  Now i am [Data Analyst](https://public.tableau.com/app/profile/christy.matryonina/vizzes) freelancer (ETL pipelines, [dashboards building](https://public.tableau.com/app/profile/christy.matryonina/vizzes), UI/UX tests and SEO optimization) 
-<br/>•  When not working - i travel, do snowboarding or surf or learning Data-Science scripts( <strong>python, web, JSON)</br>
+<br/>•  Now i am <a href="https://public.tableau.com/app/profile/christy.matryonina/vizzes">Data Analyst</a> freelancer (ETL pipelines, <a href="https://public.tableau.com/app/profile/christy.matryonina/vizzes">dashboards building</a>, UI/UX tests and SEO optimization) 
+<br/>•  When not working - i travel, do snowboarding or surf or learning Data-Science scripts (<strong>python, web, JSON)</br>
 
 <h3 align="left">Tech stack:</h3>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"><img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
